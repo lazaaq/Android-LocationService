@@ -16,7 +16,7 @@ import android.widget.Toast;
 import com.google.android.gms.location.FusedLocationProviderClient;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.tasks.OnSuccessListener;
-
+// main activity
 public class MainActivity extends AppCompatActivity implements FetchAddressTask.OnTaskCompleted {
 
     private TextView mLocationTextView;
